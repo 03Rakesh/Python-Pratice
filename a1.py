@@ -9,3 +9,5 @@ print(type(d))
 e='rakesh'
 print(e)
 print('hello')
+d1={'name':'rakesh','age':29,'add':'blr'}
+print(d1)
